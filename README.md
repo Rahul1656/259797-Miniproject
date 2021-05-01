@@ -1,1 +1,1 @@
-# Employee management with unit testing
+# Rock Paper Scissors in Python
